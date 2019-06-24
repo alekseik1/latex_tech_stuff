@@ -1,6 +1,6 @@
 # latex_tech_stuff
 
-I'm using LaTeX very often but managing preambula files between different projects is a real disaster.
+I use LaTeX very often but managing preambula files between different projects is a real disaster.
 That's why I decided to keep all my environments and imports in a single place!
 
 ## How to use
